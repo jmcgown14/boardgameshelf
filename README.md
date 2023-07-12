@@ -87,5 +87,3 @@ MyGameShelf Search Page Results
 - Jesus Salazar
 - Katherine Reiner
 - Chelsey Valerio
-# boardgameshelf
-# boardgameshelf
